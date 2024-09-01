@@ -1,0 +1,12 @@
+# Ignore .bin files
+*.bin
+
+# Ignore .cph directory
+
+.cph/
+
+# Ignore .vscode directory
+.vscode/
+
+# Ignore .exe files
+*.exe
