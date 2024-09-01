@@ -15,6 +15,7 @@ void solve(const vector<int> &boxes, const int &n, const int &k){
         }
     }
     cout<<"YES"<<endl;
+    
 }
 
 int main(){
