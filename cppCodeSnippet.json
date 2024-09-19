@@ -104,6 +104,16 @@
     "}"
   ],
   "description": "gcdFinder"
+},
+"Triplet": {
+  "prefix": "trip",
+  "body": [
+    "class Triplet{",
+    "    public:",
+    "    int first, second, third;",
+    "};"
+  ],
+  "description": "Triplet"
 }
 
 }
