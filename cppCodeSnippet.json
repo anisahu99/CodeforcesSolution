@@ -91,6 +91,19 @@
     "}"
   ],
   "description": "findPrimeNumber"
+},
+"gcdFinder": {
+  "prefix": "gcd",
+  "body": [
+    "int GCD(int x, int y){",
+    "    while( y!=0 ){",
+    "        x = x%y;",
+    "        swap(x,y);",
+    "    }",
+    "    return x;",
+    "}"
+  ],
+  "description": "gcdFinder"
 }
 
 }
